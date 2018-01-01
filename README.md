@@ -7,7 +7,7 @@ Mobile and PC game to simulate “Memory Palace” technique using Unity3D game 
 C#, Unity3D, Cinema4D, Android SDK
 
 # APK
-Available onlu upon request.
+Available only upon request.
 
 # Source Code
-Available onlu upon request.
+Available only upon request.
